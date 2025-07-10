@@ -1,6 +1,6 @@
 # 🛠️ FPGA Prototyping Internship Projects (Summer 2025)
 
-This repository contains all Verilog HDL projects completed during my **Summer Internship at NSS College of Engineering, Palakkad**, using **Xilinx Vivado** and the **Arty 7 FPGA board**.
+This repository contains all Verilog HDL projects completed during my **Summer Internship at National Institute of Electronics & Information Technology, Calicut**, using **Xilinx Vivado** and the **Arty 7 FPGA board**.
 
 ## 📚 Assignments Overview
 
